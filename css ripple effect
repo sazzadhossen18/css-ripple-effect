@@ -106,7 +106,7 @@ span:last-child::before {
 
    <div class="ripple-effect">
           <div class="circle-ripples"></div>
-          <div class="text"> <b>Auf Lager</b> – In 2-5 Tagen bei Dir</div>
+          <div class="text"> Some Text</div>
    </div>
 
 
